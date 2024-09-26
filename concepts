@@ -1,3 +1,10 @@
 primärer spielmodus: textbasiert (kommandozeile/konsole)
 vorerst lokaler singleplayer-modus gegen computer
 später online multiplayer
+
+Idee:
+Eine Hauptkonsole und mehrere "screens" daneben um bestimmte Informationen tracken zu können, ohne sie in der hauptkonsole
+dauernd abfragen zu müssen.
+Bsp.: "show screen 1 outbound A" -> zeigt eine Liste mit Schiffen, die von A losgeflogen sind aber nicht in der Hauptkonsole sondern auf 
+screen 1
+Um die Daten zu akutalisieren muss in die Hauptkonsole "update screen 1" oder "update all" eingegeben werden
